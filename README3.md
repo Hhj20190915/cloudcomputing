@@ -4,33 +4,33 @@
 
 ##### 1.1查看操作系统内核信息
 
-![1](C:\Users\95348\cloudcomputing\Dockerimages\图片1.png)
+![1](Dockerimages/图片1.png)
 
 ##### **1.2更新应用程序数据库**
 
-![2](C:\Users\95348\cloudcomputing\Dockerimages\图片2.png)
+![2](Dockerimages/图片2.png)
 
-![3](C:\Users\95348\cloudcomputing\Dockerimages\图片3.png)
+![3](Dockerimages/图片3.png)
 
 ![4](C:\Users\95348\cloudcomputing\Dockerimages\图片4.png)
 
 ##### **1.3启动Docker服务**
 
-![6](C:\Users\95348\cloudcomputing\Dockerimages\图片6.png)
+![6](Dockerimages/图片6.png)
 
 ##### **1.4验证Docker是否成功**
 
-![7](C:\Users\95348\cloudcomputing\Dockerimages\图片7.png)
+![7](Dockerimages/图片7.png)
 
 ### **2.Docker的基本操作**
 
 ##### **2.1拉取官方版本镜像和基于拉取好的镜像运行容器**
 
-![8](C:\Users\95348\cloudcomputing\Dockerimages\图片8.png)
+![8](Dockerimages/图片8.png)
 
 ##### **2.2查看系统中存在的镜像**
 
-![9](C:\Users\95348\cloudcomputing\Dockerimages\图片9.png)
+![9](Dockerimages/图片9.png)
 
 ### **3.运行Docker镜像**
 
@@ -79,34 +79,34 @@
 
 ​    FLUSH PRIVILEGES;
 
-![11](C:\Users\95348\cloudcomputing\Dockerimages\图片11.png)
+![11](Dockerimages/图片11.png)
 
 ##### **3.2查看本地中的容器docker ps**
 
-![12](C:\Users\95348\cloudcomputing\Dockerimages\图片12.png)
+![12](Dockerimages/图片12.png)
 
 ##### **3.3运行Docker镜像**
 
-![13](C:\Users\95348\cloudcomputing\Dockerimages\图片13.png)
+![13](Dockerimages/图片13.png)
 
 ##### **3.4注册Docker并登录**
 
-![14](C:\Users\95348\cloudcomputing\Dockerimages\图片14.png)
+![14](Dockerimages/图片14.png)
 
 ##### **3.5将容器wordpress保存为新的镜像,并添加提交人信息和说明信息。**
 
-![15](C:\Users\95348\cloudcomputing\Dockerimages\图片15.png)
+![15](Dockerimages/图片15.png)
 
 ##### **3.6在webshell上登录Docker**
 
-![16](C:\Users\95348\cloudcomputing\Dockerimages\图片16.png)
+![16](Dockerimages/图片16.png)
 
 ##### **3.7推送新创建的镜像**
 
 
 
-![17](C:\Users\95348\cloudcomputing\Dockerimages\图片17.png)
+![17](Dockerimages/图片17.png)
 
 
 
-![18](C:\Users\95348\cloudcomputing\Dockerimages\图片18.png)
+![18](Dockerimages/图片18.png)
