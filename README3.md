@@ -12,7 +12,7 @@
 
 ![3](Dockerimages/图片3.png)
 
-![4](C:\Users\95348\cloudcomputing\Dockerimages\图片4.png)
+![4](Dockerimages/图片4.png)
 
 ##### **1.3启动Docker服务**
 
