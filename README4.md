@@ -64,11 +64,17 @@ ceph-0/1/2节点
 
 ![img](cephimages/图片14.png) 
 
+ssh-copy-id ceph-deploy@ceph-0
+ssh-copy-id ceph-deploy@ceph-1
+ssh-copy-id ceph-deploy@ceph-2
+
 修改~/.ssh/config，这样 ceph-deploy 就能用新用户名登录各个 Ceph 节点
 
 ![img](cephimages/图片15.png) 
 
 ~/.ssh/config（一般默认没有要自己创建文件）
+
+chmod 644 ~/.ssh/config
 
 2.0关闭selinux&firewalld
 
